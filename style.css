@@ -215,6 +215,10 @@ a.sidebar-link:hover {
     text-align: left;
 }
 
+#table-header {
+    padding-bottom: 20px;
+}
+
 tr.highlight th{
     background-color: #293b5f;
     color: #FFF;
