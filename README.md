@@ -8,7 +8,7 @@ Deployed on Netlify and accessible **[here](https://admin-dashboard-bs5.netlify.
 ## 🚀 Features
 
 - 📊 Interactive charts powered by Chart.js
-- 📱 Fully responsive design (mobile-first) with Bootstrap 5
+- 📱 Fully responsive design (mobile/desktop) with Bootstrap 5
 - 🎨 Clean and modern UI for admin and analytics use cases
 - ⚡ Fast and free deployment with Netlify
 
